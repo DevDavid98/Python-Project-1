@@ -1,1 +1,1 @@
-# TechDegree Project 1 
+#First project on the basics of Python programing 
