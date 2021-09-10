@@ -1,6 +1,6 @@
 import random, sys
 CREATOR = 'David Garcia'
-
+# Project 1
 
 def start_game_normal():
     
