@@ -1,2 +1,1 @@
-#First project on the basics of Python programing
-#Number guessing game for the console
+A console number guessing game that prompts a player to choose a number between a specified range of numbers. After the user guesses the correct number, display the number of attempts it took them to guess correctly. 
